@@ -25,6 +25,9 @@ The project demonstrates an end-to-end analytics workflow using Python, MySQL, S
 
 ## 3. Technology Stack
 
+<img width="300" height="304" alt="Screenshot 2026-10-31 145014" src="https://github.com/user-attachments/assets/3d5dc42d-7b84-458c-8701-686aead3e11b" />
+
+
 | Technology | Purpose |
 |---|---|
 | Python | Data profiling, cleaning, and ETL |
