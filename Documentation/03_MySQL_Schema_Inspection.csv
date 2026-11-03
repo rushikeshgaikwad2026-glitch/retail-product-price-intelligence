@@ -1,0 +1,52 @@
+Column_Name,Data_Type,Missing_Values,Unique_Values
+id,int64,0,338101
+type,str,0,2
+product_code,str,10551,147818
+product_name,str,114198,165209
+category_tag,str,327550,640
+labels_tags,object,330431,2
+origins_tags,object,327840,82
+price,object,0,5590
+price_is_discounted,bool,0,2
+price_without_discount,object,307570,1830
+discount_type,str,0,10
+price_per,str,327550,2
+currency,str,170,94
+location_osm_id,float64,1405,7154
+location_osm_type,str,1405,3
+location_id,float64,2,7244
+date,"datetime64[ms, UTC]",185,2167
+proof_id,float64,129,123495
+receipt_quantity,float32,268182,753
+owner,str,0,3812
+source,str,16803,2371
+created,"datetime64[us, UTC]",0,338023
+updated,"datetime64[us, UTC]",0,338053
+proof_file_path,str,129,123495
+proof_mimetype,str,129,5
+proof_type,str,129,4
+proof_date,object,22046,1394
+proof_currency,str,14442,94
+proof_receipt_price_count,float64,320672,52
+proof_receipt_price_total,object,320670,2024
+proof_owner,str,129,3757
+proof_source,str,17123,2382
+proof_created,"datetime64[us, UTC]",129,123495
+proof_updated,"datetime64[us, UTC]",129,123494
+location_type,str,2,2
+location_osm_display_name,str,1595,7120
+location_osm_tag_key,str,1780,19
+location_osm_tag_value,str,1780,219
+location_osm_address_postcode,str,5554,4333
+location_osm_address_city,str,5370,3189
+location_osm_address_country,str,1595,126
+location_osm_address_country_code,str,1780,123
+location_osm_lat,float64,1595,7134
+location_osm_lon,float64,1595,7134
+location_website_url,str,336698,91
+location_source,str,336486,2
+location_created,"datetime64[us, UTC]",2,7244
+location_updated,"datetime64[us, UTC]",2,7244
+zero_price_flag,bool,0,2
+discount_percentage,object,307570,5967
+missing_date_flag,bool,0,2

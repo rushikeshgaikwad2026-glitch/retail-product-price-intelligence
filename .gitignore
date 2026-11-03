@@ -1,0 +1,40 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+retail_env/
+venv/
+.venv/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Environment variables and credentials
+.env
+.env.*
+!.env.example
+
+# IDE settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Raw and processed datasets
+Data/Raw/*
+Data/Processed/*
+
+# Keep the data folders visible in GitHub
+!Data/Raw/.gitkeep
+!Data/Processed/.gitkeep
+
+# Local database exports and temporary files
+*.sql.bak
+*.log
+
+# Python and editor temporary files
+*.tmp
+*.swp
