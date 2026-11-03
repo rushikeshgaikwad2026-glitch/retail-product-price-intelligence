@@ -114,6 +114,8 @@ The Power BI report contains six analytical pages:
 <img width="491" height="277" alt="Screenshot 2026-11-03 170101" src="https://github.com/user-attachments/assets/b150ca0a-82ca-4082-9378-8e99cff12c5b" />
 
 
+
+
 Power BI file: `Dashboards/Project_01_Retail_Price_Intelligence.pbix`
 
 ## 9. Key Analytical Observations
