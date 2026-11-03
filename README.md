@@ -2,6 +2,9 @@
 
 An end-to-end data analytics project that transforms crowdsourced retail price observations into structured data, analytical insights, and interactive Power BI dashboards.
 
+<img width="604" height="338" alt="image" src="https://github.com/user-attachments/assets/b0da118d-e275-4087-8386-5265a39055dc" />
+
+
 ## 1. Project Overview
 
 Retail prices can vary across products, categories, locations, currencies, and time periods. This project analyses historical retail price observations to understand these patterns and identify areas requiring further investigation.
