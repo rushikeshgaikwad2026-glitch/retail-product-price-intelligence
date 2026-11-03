@@ -96,21 +96,27 @@ A staging table, `stg_open_prices`, stores the loaded source records.
 The Power BI report contains six analytical pages:
 
 1. **Executive Dashboard** – High-level KPIs and a consolidated view of project performance.
+   
    <img width="604" height="338" alt="Screenshot 2026-11-03 165304" src="https://github.com/user-attachments/assets/a1b53533-88d2-454a-b827-3ff654e2e0f9" />
 
 2. **Executive Summary** – Key business findings, observations, and actionable insights.
+   
    <img width="598" height="337" alt="Screenshot 2026-11-03 170002" src="https://github.com/user-attachments/assets/282aa5d8-14ad-4208-960f-3646e17f9cd5" />
 
 3. **Product Intelligence** – Product-level price performance, observation coverage, and discount patterns.
+   
    <img width="489" height="275" alt="Screenshot 2026-11-03 170028" src="https://github.com/user-attachments/assets/bc8a79a5-af68-49bd-89a6-7a5325c1ecbd" />
 
 4. **Category Intelligence** – Category-level price benchmarks, average-versus-median comparisons, and outlier patterns.
+   
    <img width="491" height="280" alt="Screenshot 2026-11-03 170044" src="https://github.com/user-attachments/assets/4ba3db95-0577-41dc-b074-c4365d186f64" />
 
 5. **Geographic Intelligence** – Country-level price benchmarks, geographic coverage, and price variation.
+   
    <img width="490" height="280" alt="Screenshot 2026-11-03 170053" src="https://github.com/user-attachments/assets/929b0da7-8ede-492a-b1a5-02f999045b63" />
 
 6. **Price Trends & Anomalies** – Monthly price trends, observation volumes, and high-price outlier analysis.
+   
 <img width="491" height="277" alt="Screenshot 2026-11-03 170101" src="https://github.com/user-attachments/assets/b150ca0a-82ca-4082-9378-8e99cff12c5b" />
 
 
